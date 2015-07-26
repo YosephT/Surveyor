@@ -1,0 +1,1659 @@
+# Logfile created on 2015-03-17 13:32:21 -0400 by logger.rb/47272
+[03/17/15 13:32:21 -0400 yoseph-90X3A (6371)] INFO : Starting the New Relic agent in "development" environment.
+[03/17/15 13:32:21 -0400 yoseph-90X3A (6371)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/17/15 13:32:21 -0400 yoseph-90X3A (6371)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : New Relic Agent Developer Mode enabled.
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Environment: development
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Dispatcher: webrick
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Application: Surveyor
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] WARN : Agent configured not to send data in this environment.
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Rails 3+ middleware instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing deferred Rack instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Rack::Builder middleware instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing ActiveJob instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Net instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing ActiveRecord 4 instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Rails 4 view instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Rails 4 Controller instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Installing Rails 4 Error instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Finished instrumentation
+[03/17/15 13:32:22 -0400 yoseph-90X3A (6371)] INFO : Doing deferred dependency-detection before Rack startup
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Starting the New Relic agent in "development" environment.
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : New Relic Agent Developer Mode enabled.
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Environment: development
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : No known dispatcher detected.
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Application: Surveyor
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] WARN : Agent configured not to send data in this environment.
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Rails 3+ middleware instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing deferred Rack instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Rack::Builder middleware instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing ActiveJob instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Net instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing ActiveRecord 4 instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Rails 4 view instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Rails 4 Controller instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Installing Rails 4 Error instrumentation
+[03/17/15 13:35:07 -0400 yoseph-90X3A (6719)] INFO : Finished instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Starting the New Relic agent in "development" environment.
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : New Relic Agent Developer Mode enabled.
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Environment: development
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Dispatcher: webrick
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Application: Surveyor
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] WARN : Agent configured not to send data in this environment.
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Rails 3+ middleware instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing deferred Rack instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Rack::Builder middleware instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing ActiveJob instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Net instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing ActiveRecord 4 instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Rails 4 view instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Rails 4 Controller instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Installing Rails 4 Error instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Finished instrumentation
+[03/17/15 13:45:08 -0400 yoseph-90X3A (7735)] INFO : Doing deferred dependency-detection before Rack startup
+[03/18/15 14:09:57 -0400 yoseph-90X3A (2733)] INFO : Starting the New Relic agent in "development" environment.
+[03/18/15 14:09:57 -0400 yoseph-90X3A (2733)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/18/15 14:09:57 -0400 yoseph-90X3A (2733)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : New Relic Agent Developer Mode enabled.
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Environment: development
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Dispatcher: webrick
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Application: Surveyor
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] WARN : Agent configured not to send data in this environment.
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Rails 3+ middleware instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing deferred Rack instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Rack::Builder middleware instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing ActiveJob instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Net instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing ActiveRecord 4 instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Rails 4 view instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Rails 4 Controller instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Installing Rails 4 Error instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Finished instrumentation
+[03/18/15 14:09:58 -0400 yoseph-90X3A (2733)] INFO : Doing deferred dependency-detection before Rack startup
+[03/18/15 14:49:48 -0400 yoseph-90X3A (4322)] INFO : Starting the New Relic agent in "development" environment.
+[03/18/15 14:49:48 -0400 yoseph-90X3A (4322)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/18/15 14:49:48 -0400 yoseph-90X3A (4322)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : New Relic Agent Developer Mode enabled.
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Environment: development
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Dispatcher: webrick
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Application: Surveyor
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] WARN : Agent configured not to send data in this environment.
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Rails 3+ middleware instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing deferred Rack instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Rack::Builder middleware instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing ActiveJob instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Net instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing ActiveRecord 4 instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Rails 4 view instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Rails 4 Controller instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Installing Rails 4 Error instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Finished instrumentation
+[03/18/15 14:49:49 -0400 yoseph-90X3A (4322)] INFO : Doing deferred dependency-detection before Rack startup
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Starting the New Relic agent in "development" environment.
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : New Relic Agent Developer Mode enabled.
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Environment: development
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Dispatcher: webrick
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Application: Surveyor
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] WARN : Agent configured not to send data in this environment.
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Rails 3+ middleware instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing deferred Rack instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Rack::Builder middleware instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing ActiveJob instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Net instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing ActiveRecord 4 instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Rails 4 view instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Rails 4 Controller instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Installing Rails 4 Error instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Finished instrumentation
+[03/18/15 14:55:04 -0400 yoseph-90X3A (4908)] INFO : Doing deferred dependency-detection before Rack startup
+[03/18/15 15:01:25 -0400 yoseph-90X3A (5641)] INFO : Starting the New Relic agent in "development" environment.
+[03/18/15 15:01:25 -0400 yoseph-90X3A (5641)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/18/15 15:01:25 -0400 yoseph-90X3A (5641)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : New Relic Agent Developer Mode enabled.
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Environment: development
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Dispatcher: webrick
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Application: Surveyor
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] WARN : Agent configured not to send data in this environment.
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Rails 3+ middleware instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing deferred Rack instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Rack::Builder middleware instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing ActiveJob instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Net instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing ActiveRecord 4 instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Rails 4 view instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Rails 4 Controller instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Installing Rails 4 Error instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Finished instrumentation
+[03/18/15 15:01:26 -0400 yoseph-90X3A (5641)] INFO : Doing deferred dependency-detection before Rack startup
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Starting the New Relic agent in "development" environment.
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : New Relic Agent Developer Mode enabled.
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Environment: development
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Dispatcher: webrick
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Application: Surveyor
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] WARN : Agent configured not to send data in this environment.
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Rails 3+ middleware instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing deferred Rack instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Rack::Builder middleware instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing ActiveJob instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Net instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing ActiveRecord 4 instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Rails 4 view instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Rails 4 Controller instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Installing Rails 4 Error instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Finished instrumentation
+[03/18/15 15:31:01 -0400 yoseph-90X3A (7979)] INFO : Doing deferred dependency-detection before Rack startup
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Environment: development
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Dispatcher: webrick
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Application: Surveyor
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:07:45 -0400 yoseph-90X3A (3571)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Installing Net instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Finished instrumentation
+[03/23/15 14:07:46 -0400 yoseph-90X3A (3571)] INFO : Doing deferred dependency-detection before Rack startup
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Environment: development
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : No known dispatcher detected.
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Application: Surveyor
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Net instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:08:51 -0400 yoseph-90X3A (3827)] INFO : Finished instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Environment: development
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Dispatcher: webrick
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Application: Surveyor
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Net instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Finished instrumentation
+[03/23/15 14:09:54 -0400 yoseph-90X3A (3881)] INFO : Doing deferred dependency-detection before Rack startup
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Environment: development
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : No known dispatcher detected.
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Application: Surveyor
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Net instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:19:09 -0400 yoseph-90X3A (4956)] INFO : Finished instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Environment: development
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Dispatcher: webrick
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Application: Surveyor
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Net instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Finished instrumentation
+[03/23/15 14:20:06 -0400 yoseph-90X3A (5015)] INFO : Doing deferred dependency-detection before Rack startup
+[03/23/15 14:20:42 -0400 yoseph-90X3A (5119)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 14:20:42 -0400 yoseph-90X3A (5119)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 14:20:42 -0400 yoseph-90X3A (5119)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Environment: development
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Dispatcher: webrick
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Application: Surveyor
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] WARN : Agent configured not to send data in this environment.
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing deferred Rack instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing ActiveJob instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Net instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Finished instrumentation
+[03/23/15 14:20:43 -0400 yoseph-90X3A (5119)] INFO : Doing deferred dependency-detection before Rack startup
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Starting the New Relic agent in "development" environment.
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : New Relic Agent Developer Mode enabled.
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Environment: development
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Dispatcher: webrick
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Application: Surveyor
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] WARN : Agent configured not to send data in this environment.
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Rails 3+ middleware instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing deferred Rack instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Rack::Builder middleware instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing ActiveJob instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Net instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing ActiveRecord 4 instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Rails 4 view instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Rails 4 Controller instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Installing Rails 4 Error instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Finished instrumentation
+[03/23/15 15:18:11 -0400 yoseph-90X3A (20510)] INFO : Doing deferred dependency-detection before Rack startup
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Starting the New Relic agent in "development" environment.
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : New Relic Agent Developer Mode enabled.
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Environment: development
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Dispatcher: webrick
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Application: Surveyor
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] WARN : Agent configured not to send data in this environment.
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Rails 3+ middleware instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing deferred Rack instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Rack::Builder middleware instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing ActiveJob instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Net instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing ActiveRecord 4 instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Rails 4 view instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Rails 4 Controller instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Installing Rails 4 Error instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Finished instrumentation
+[03/25/15 15:21:15 -0400 yoseph-90X3A (5772)] INFO : Doing deferred dependency-detection before Rack startup
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Starting the New Relic agent in "development" environment.
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : New Relic Agent Developer Mode enabled.
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Environment: development
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Dispatcher: webrick
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Application: Surveyor
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] WARN : Agent configured not to send data in this environment.
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Rails 3+ middleware instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing deferred Rack instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Rack::Builder middleware instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing ActiveJob instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Net instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing ActiveRecord 4 instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Rails 4 view instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Rails 4 Controller instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Installing Rails 4 Error instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Finished instrumentation
+[03/25/15 15:49:51 -0400 yoseph-90X3A (6215)] INFO : Doing deferred dependency-detection before Rack startup
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Starting the New Relic agent in "development" environment.
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : New Relic Agent Developer Mode enabled.
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Environment: development
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Dispatcher: webrick
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Application: Surveyor
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] WARN : Agent configured not to send data in this environment.
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Rails 3+ middleware instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing deferred Rack instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Rack::Builder middleware instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing ActiveJob instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Net instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing ActiveRecord 4 instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Rails 4 view instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Rails 4 Controller instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Installing Rails 4 Error instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Finished instrumentation
+[03/25/15 15:50:45 -0400 yoseph-90X3A (6559)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Environment: development
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Dispatcher: webrick
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Application: Surveyor
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Net instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:01:53 -0400 yoseph-90X3A (28065)] INFO : Finished instrumentation
+[03/30/15 15:01:54 -0400 yoseph-90X3A (28065)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Environment: development
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Dispatcher: webrick
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Application: Surveyor
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Net instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:10:30 -0400 yoseph-90X3A (29408)] INFO : Finished instrumentation
+[03/30/15 15:10:31 -0400 yoseph-90X3A (29408)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Environment: development
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Dispatcher: webrick
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Application: Surveyor
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Net instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Finished instrumentation
+[03/30/15 15:12:30 -0400 yoseph-90X3A (29658)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Environment: development
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Dispatcher: webrick
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Application: Surveyor
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Net instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Finished instrumentation
+[03/30/15 15:18:28 -0400 yoseph-90X3A (30490)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Environment: development
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Dispatcher: webrick
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Application: Surveyor
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Net instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Finished instrumentation
+[03/30/15 15:21:41 -0400 yoseph-90X3A (31023)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Environment: development
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Dispatcher: webrick
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Application: Surveyor
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Net instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Finished instrumentation
+[03/30/15 15:27:34 -0400 yoseph-90X3A (2595)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Environment: development
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : No known dispatcher detected.
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Application: Surveyor
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Net instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:28:52 -0400 yoseph-90X3A (3157)] INFO : Finished instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Environment: development
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Dispatcher: webrick
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Application: Surveyor
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Net instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Finished instrumentation
+[03/30/15 15:30:15 -0400 yoseph-90X3A (3422)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Environment: development
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Dispatcher: webrick
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Application: Surveyor
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] WARN : Agent configured not to send data in this environment.
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing deferred Rack instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing ActiveJob instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Net instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Finished instrumentation
+[03/30/15 15:41:52 -0400 yoseph-90X3A (4755)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : New Relic Agent Developer Mode enabled.
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Environment: development
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Dispatcher: webrick
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Application: Surveyor
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] WARN : Agent configured not to send data in this environment.
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Rails 3+ middleware instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing deferred Rack instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Rack::Builder middleware instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing ActiveJob instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Net instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Rails 4 view instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Installing Rails 4 Error instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Finished instrumentation
+[03/30/15 17:08:46 -0400 yoseph-90X3A (3070)] INFO : Doing deferred dependency-detection before Rack startup
+[03/31/15 09:49:46 -0400 yoseph-90X3A (4310)] INFO : Starting the New Relic agent in "development" environment.
+[03/31/15 09:49:46 -0400 yoseph-90X3A (4310)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/31/15 09:49:46 -0400 yoseph-90X3A (4310)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : New Relic Agent Developer Mode enabled.
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Environment: development
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Dispatcher: webrick
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Application: Surveyor
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] WARN : Agent configured not to send data in this environment.
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Rails 3+ middleware instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing deferred Rack instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Rack::Builder middleware instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing ActiveJob instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Net instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing ActiveRecord 4 instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Rails 4 view instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Rails 4 Controller instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Installing Rails 4 Error instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Finished instrumentation
+[03/31/15 09:49:47 -0400 yoseph-90X3A (4310)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Environment: development
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Dispatcher: webrick
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Application: Surveyor
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] WARN : Agent configured not to send data in this environment.
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing deferred Rack instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing ActiveJob instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Net instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Finished instrumentation
+[04/01/15 12:39:23 -0400 yoseph-90X3A (2870)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Environment: development
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Dispatcher: webrick
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Application: Surveyor
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] WARN : Agent configured not to send data in this environment.
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing deferred Rack instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing ActiveJob instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Net instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 13:25:06 -0400 yoseph-90X3A (6208)] INFO : Finished instrumentation
+[04/01/15 13:25:07 -0400 yoseph-90X3A (6208)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Environment: development
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Dispatcher: webrick
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Application: Surveyor
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] WARN : Agent configured not to send data in this environment.
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing deferred Rack instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing ActiveJob instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Net instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 14:57:10 -0400 yoseph-90X3A (8218)] INFO : Finished instrumentation
+[04/01/15 14:57:11 -0400 yoseph-90X3A (8218)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Environment: development
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Dispatcher: webrick
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Application: Surveyor
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] WARN : Agent configured not to send data in this environment.
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing deferred Rack instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing ActiveJob instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Net instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Finished instrumentation
+[04/01/15 15:00:22 -0400 yoseph-90X3A (8412)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Environment: development
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Dispatcher: webrick
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Application: Surveyor
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] WARN : Agent configured not to send data in this environment.
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing deferred Rack instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing ActiveJob instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Net instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Finished instrumentation
+[04/01/15 15:11:26 -0400 yoseph-90X3A (8915)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Environment: development
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Dispatcher: webrick
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Application: Surveyor
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] WARN : Agent configured not to send data in this environment.
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing deferred Rack instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing ActiveJob instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Net instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 15:16:53 -0400 yoseph-90X3A (9123)] INFO : Finished instrumentation
+[04/01/15 15:16:54 -0400 yoseph-90X3A (9123)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Environment: development
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Dispatcher: webrick
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Application: Surveyor
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Net instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Finished instrumentation
+[04/01/15 19:14:06 -0400 yoseph-90X3A (4320)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 19:14:19 -0400 yoseph-90X3A (4422)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:14:19 -0400 yoseph-90X3A (4422)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:14:19 -0400 yoseph-90X3A (4422)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Environment: development
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Dispatcher: unicorn
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Application: Surveyor
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Net instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Finished instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4422)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Net instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Finished instrumentation
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Environment: development
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Dispatcher: delayed_job
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] INFO : Application: Surveyor
+[04/01/15 19:14:20 -0400 yoseph-90X3A (4423)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Environment: development
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Dispatcher: webrick
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Application: Surveyor
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Net instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Finished instrumentation
+[04/01/15 19:15:07 -0400 yoseph-90X3A (4524)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Environment: development
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Dispatcher: webrick
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Application: Surveyor
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Net instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Finished instrumentation
+[04/01/15 19:18:02 -0400 yoseph-90X3A (4904)] INFO : Doing deferred dependency-detection before Rack startup
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Starting the New Relic agent in "development" environment.
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : New Relic Agent Developer Mode enabled.
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Environment: development
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Dispatcher: webrick
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Application: Surveyor
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] WARN : Agent configured not to send data in this environment.
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Rails 3+ middleware instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing deferred Rack instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Rack::Builder middleware instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing ActiveJob instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Net instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing ActiveRecord 4 instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Rails 4 view instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Rails 4 Controller instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Installing Rails 4 Error instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Finished instrumentation
+[04/01/15 19:21:29 -0400 yoseph-90X3A (5136)] INFO : Doing deferred dependency-detection before Rack startup
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Starting the New Relic agent in "development" environment.
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : New Relic Agent Developer Mode enabled.
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Environment: development
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Dispatcher: webrick
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Application: Surveyor
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] WARN : Agent configured not to send data in this environment.
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Rails 3+ middleware instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing deferred Rack instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Rack::Builder middleware instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing ActiveJob instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Net instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing ActiveRecord 4 instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Rails 4 view instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Rails 4 Controller instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Installing Rails 4 Error instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Finished instrumentation
+[04/14/15 23:08:11 -0400 yoseph-90X3A (2385)] INFO : Doing deferred dependency-detection before Rack startup
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Starting the New Relic agent in "development" environment.
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : New Relic Agent Developer Mode enabled.
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Environment: development
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : No known dispatcher detected.
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Application: Surveyor
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] WARN : Agent configured not to send data in this environment.
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Rails 3+ middleware instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing deferred Rack instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Rack::Builder middleware instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing ActiveJob instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Net instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing ActiveRecord 4 instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Rails 4 view instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Rails 4 Controller instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Installing Rails 4 Error instrumentation
+[04/15/15 16:03:11 -0400 yoseph-90X3A (4067)] INFO : Finished instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Starting the New Relic agent in "development" environment.
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : New Relic Agent Developer Mode enabled.
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Environment: development
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Dispatcher: webrick
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Application: Surveyor
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] WARN : Agent configured not to send data in this environment.
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Rails 3+ middleware instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing deferred Rack instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Rack::Builder middleware instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing ActiveJob instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Net instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing ActiveRecord 4 instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Rails 4 view instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Rails 4 Controller instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Installing Rails 4 Error instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Finished instrumentation
+[04/15/15 16:03:31 -0400 yoseph-90X3A (4156)] INFO : Doing deferred dependency-detection before Rack startup
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Starting the New Relic agent in "development" environment.
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : New Relic Agent Developer Mode enabled.
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Environment: development
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Dispatcher: webrick
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Application: Surveyor
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] WARN : Agent configured not to send data in this environment.
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Rails 3+ middleware instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing deferred Rack instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Rack::Builder middleware instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing ActiveJob instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Net instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing ActiveRecord 4 instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Rails 4 view instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Rails 4 Controller instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Installing Rails 4 Error instrumentation
+[04/20/15 13:44:40 -0400 yoseph-90X3A (4141)] INFO : Finished instrumentation
+[04/20/15 13:44:41 -0400 yoseph-90X3A (4141)] INFO : Doing deferred dependency-detection before Rack startup
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Starting the New Relic agent in "development" environment.
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : New Relic Agent Developer Mode enabled.
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Environment: development
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Dispatcher: webrick
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Application: Surveyor
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] WARN : Agent configured not to send data in this environment.
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Rails 3+ middleware instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing deferred Rack instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Rack::Builder middleware instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing ActiveJob instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Net instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing ActiveRecord 4 instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Rails 4 view instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Rails 4 Controller instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Installing Rails 4 Error instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Finished instrumentation
+[04/20/15 14:06:43 -0400 yoseph-90X3A (5307)] INFO : Doing deferred dependency-detection before Rack startup
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Starting the New Relic agent in "development" environment.
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : New Relic Agent Developer Mode enabled.
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Environment: development
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Dispatcher: webrick
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Application: Surveyor
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] WARN : Agent configured not to send data in this environment.
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Rails 3+ middleware instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing deferred Rack instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Rack::Builder middleware instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing ActiveJob instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Net instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing ActiveRecord 4 instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Rails 4 view instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Rails 4 Controller instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Installing Rails 4 Error instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Finished instrumentation
+[04/20/15 14:29:08 -0400 yoseph-90X3A (6114)] INFO : Doing deferred dependency-detection before Rack startup
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Starting the New Relic agent in "development" environment.
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : New Relic Agent Developer Mode enabled.
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Environment: development
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Dispatcher: webrick
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Application: Surveyor
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] WARN : Agent configured not to send data in this environment.
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Rails 3+ middleware instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing deferred Rack instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Rack::Builder middleware instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing ActiveJob instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Net instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing ActiveRecord 4 instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Rails 4 view instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Rails 4 Controller instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Installing Rails 4 Error instrumentation
+[04/25/15 17:49:19 -0400 yoseph-90X3A (3688)] INFO : Finished instrumentation
+[04/25/15 17:49:20 -0400 yoseph-90X3A (3688)] INFO : Doing deferred dependency-detection before Rack startup
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Starting the New Relic agent in "development" environment.
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : New Relic Agent Developer Mode enabled.
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Environment: development
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Dispatcher: webrick
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Application: Surveyor
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] WARN : Agent configured not to send data in this environment.
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Rails 3+ middleware instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing deferred Rack instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Rack::Builder middleware instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing ActiveJob instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Net instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing ActiveRecord 4 instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Rails 4 view instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Rails 4 Controller instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Installing Rails 4 Error instrumentation
+[04/27/15 19:14:15 -0400 yoseph-90X3A (2347)] INFO : Finished instrumentation
+[04/27/15 19:14:16 -0400 yoseph-90X3A (2347)] INFO : Doing deferred dependency-detection before Rack startup
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : Starting the New Relic agent in "development" environment.
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : New Relic Agent Developer Mode enabled.
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : Environment: development
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : Dispatcher: webrick
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] INFO : Application: Surveyor
+[04/28/15 14:00:03 -0400 yoseph-90X3A (2983)] WARN : Agent configured not to send data in this environment.
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Rails 3+ middleware instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing deferred Rack instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Rack::Builder middleware instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing ActiveJob instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Net instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing ActiveRecord 4 instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Rails 4 view instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Rails 4 Controller instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Installing Rails 4 Error instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Finished instrumentation
+[04/28/15 14:00:04 -0400 yoseph-90X3A (2983)] INFO : Doing deferred dependency-detection before Rack startup
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Starting the New Relic agent in "development" environment.
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : New Relic Agent Developer Mode enabled.
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Environment: development
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Dispatcher: webrick
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Application: Surveyor
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] WARN : Agent configured not to send data in this environment.
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Rails 3+ middleware instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing deferred Rack instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Rack::Builder middleware instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing ActiveJob instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Net instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing ActiveRecord 4 instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Rails 4 view instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Rails 4 Controller instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Installing Rails 4 Error instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Finished instrumentation
+[04/30/15 15:01:43 -0400 yoseph-90X3A (4165)] INFO : Doing deferred dependency-detection before Rack startup
+[04/30/15 15:56:46 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_csv' for #<Project::ActiveRecord_Relation:0x007f2649e32030>
+[04/30/15 15:56:58 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Project::CSV
+[04/30/15 15:58:09 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Project::CSV
+[04/30/15 15:58:12 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Project::CSV
+[04/30/15 16:00:36 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Project::CSV
+[04/30/15 16:12:23 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `title' for #<Project::ActiveRecord_Relation:0x007f261c0d0748>
+[04/30/15 16:13:25 -0400 yoseph-90X3A (4165)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `id' for nil:NilClass
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Starting the New Relic agent in "development" environment.
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : New Relic Agent Developer Mode enabled.
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Environment: development
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Dispatcher: webrick
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Application: Surveyor
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] WARN : Agent configured not to send data in this environment.
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Rails 3+ middleware instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing deferred Rack instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Rack::Builder middleware instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing ActiveJob instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Net instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing ActiveRecord 4 instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Rails 4 view instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Rails 4 Controller instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Installing Rails 4 Error instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Finished instrumentation
+[04/30/15 16:21:45 -0400 yoseph-90X3A (7771)] INFO : Doing deferred dependency-detection before Rack startup
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Starting the New Relic agent in "development" environment.
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : New Relic Agent Developer Mode enabled.
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Environment: development
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Dispatcher: webrick
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Application: Surveyor
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] WARN : Agent configured not to send data in this environment.
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Rails 3+ middleware instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing deferred Rack instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Rack::Builder middleware instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing ActiveJob instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Net instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing ActiveRecord 4 instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Rails 4 view instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Rails 4 Controller instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Installing Rails 4 Error instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Finished instrumentation
+[04/30/15 20:37:54 -0400 yoseph-90X3A (3064)] INFO : Doing deferred dependency-detection before Rack startup
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Environment: development
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Dispatcher: webrick
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Application: Surveyor
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] WARN : Agent configured not to send data in this environment.
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing deferred Rack instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing ActiveJob instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Net instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Finished instrumentation
+[05/01/15 11:45:46 -0400 yoseph-90X3A (3096)] INFO : Doing deferred dependency-detection before Rack startup
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Environment: development
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : No known dispatcher detected.
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Application: Surveyor
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] WARN : Agent configured not to send data in this environment.
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing deferred Rack instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing ActiveJob instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Net instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 11:48:12 -0400 yoseph-90X3A (3573)] INFO : Finished instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Environment: development
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : No known dispatcher detected.
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Application: Surveyor
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] WARN : Agent configured not to send data in this environment.
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing deferred Rack instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing ActiveJob instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Net instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 11:48:57 -0400 yoseph-90X3A (3787)] INFO : Finished instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Environment: development
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Dispatcher: webrick
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Application: Surveyor
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] WARN : Agent configured not to send data in this environment.
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing deferred Rack instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing ActiveJob instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Net instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Finished instrumentation
+[05/01/15 11:49:35 -0400 yoseph-90X3A (3844)] INFO : Doing deferred dependency-detection before Rack startup
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Environment: development
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Dispatcher: webrick
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Application: Surveyor
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] WARN : Agent configured not to send data in this environment.
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing deferred Rack instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing ActiveJob instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Net instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Finished instrumentation
+[05/01/15 12:06:26 -0400 yoseph-90X3A (2686)] INFO : Doing deferred dependency-detection before Rack startup
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Starting the New Relic agent in "development" environment.
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : New Relic Agent Developer Mode enabled.
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Environment: development
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Dispatcher: webrick
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Application: Surveyor
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] WARN : Agent configured not to send data in this environment.
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Rails 3+ middleware instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing deferred Rack instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Rack::Builder middleware instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing ActiveJob instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Net instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing ActiveRecord 4 instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Rails 4 view instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Rails 4 Controller instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Installing Rails 4 Error instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Finished instrumentation
+[05/01/15 17:07:29 -0400 yoseph-90X3A (3254)] INFO : Doing deferred dependency-detection before Rack startup
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Starting the New Relic agent in "development" environment.
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : New Relic Agent Developer Mode enabled.
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Environment: development
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Dispatcher: webrick
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Application: Surveyor
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] WARN : Agent configured not to send data in this environment.
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Rails 3+ middleware instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing deferred Rack instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Rack::Builder middleware instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing ActiveJob instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Net instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing ActiveRecord 4 instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Rails 4 view instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Rails 4 Controller instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Installing Rails 4 Error instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Finished instrumentation
+[05/02/15 13:58:26 -0400 yoseph-90X3A (2689)] INFO : Doing deferred dependency-detection before Rack startup
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Starting the New Relic agent in "development" environment.
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : New Relic Agent Developer Mode enabled.
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Environment: development
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Dispatcher: webrick
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Application: Surveyor
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] WARN : Agent configured not to send data in this environment.
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Rails 3+ middleware instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing deferred Rack instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Rack::Builder middleware instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing ActiveJob instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Net instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing ActiveRecord 4 instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Rails 4 view instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Rails 4 Controller instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Installing Rails 4 Error instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Finished instrumentation
+[05/02/15 14:31:20 -0400 yoseph-90X3A (4096)] INFO : Doing deferred dependency-detection before Rack startup
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Starting the New Relic agent in "development" environment.
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : New Relic Agent Developer Mode enabled.
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Environment: development
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Dispatcher: webrick
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Application: Surveyor
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] WARN : Agent configured not to send data in this environment.
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Rails 3+ middleware instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing deferred Rack instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Rack::Builder middleware instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing ActiveJob instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Net instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing ActiveRecord 4 instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Rails 4 view instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Rails 4 Controller instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Installing Rails 4 Error instrumentation
+[05/02/15 14:49:10 -0400 yoseph-90X3A (4642)] INFO : Finished instrumentation
+[05/02/15 14:49:11 -0400 yoseph-90X3A (4642)] INFO : Doing deferred dependency-detection before Rack startup
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Starting the New Relic agent in "development" environment.
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : New Relic Agent Developer Mode enabled.
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Environment: development
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Dispatcher: webrick
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Application: Surveyor
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] WARN : Agent configured not to send data in this environment.
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Rails 3+ middleware instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing deferred Rack instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Rack::Builder middleware instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing ActiveJob instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Net instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing ActiveRecord 4 instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Rails 4 view instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Rails 4 Controller instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Installing Rails 4 Error instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Finished instrumentation
+[05/02/15 15:00:28 -0400 yoseph-90X3A (5397)] INFO : Doing deferred dependency-detection before Rack startup
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Starting the New Relic agent in "development" environment.
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : New Relic Agent Developer Mode enabled.
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Environment: development
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Dispatcher: webrick
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Application: Surveyor
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] WARN : Agent configured not to send data in this environment.
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Rails 3+ middleware instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing deferred Rack instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Rack::Builder middleware instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing ActiveJob instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Net instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing ActiveRecord 4 instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Rails 4 view instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Rails 4 Controller instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Installing Rails 4 Error instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Finished instrumentation
+[05/02/15 15:01:11 -0400 yoseph-90X3A (5636)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 14:17:50 -0400 yoseph-90X3A (2909)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 14:17:50 -0400 yoseph-90X3A (2909)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 14:17:50 -0400 yoseph-90X3A (2909)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Environment: development
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Dispatcher: webrick
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Application: Surveyor
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] WARN : Agent configured not to send data in this environment.
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing deferred Rack instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing ActiveJob instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Net instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Finished instrumentation
+[05/05/15 14:17:51 -0400 yoseph-90X3A (2909)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Environment: development
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Dispatcher: webrick
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Application: Surveyor
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] WARN : Agent configured not to send data in this environment.
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing deferred Rack instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing ActiveJob instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Net instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Finished instrumentation
+[05/05/15 14:21:43 -0400 yoseph-90X3A (3559)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 14:23:41 -0400 yoseph-90X3A (3737)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 14:23:41 -0400 yoseph-90X3A (3737)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 14:23:41 -0400 yoseph-90X3A (3737)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 14:23:41 -0400 yoseph-90X3A (3737)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Environment: development
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : No known dispatcher detected.
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Application: Surveyor
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] WARN : Agent configured not to send data in this environment.
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing deferred Rack instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing ActiveJob instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Net instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 14:23:42 -0400 yoseph-90X3A (3737)] INFO : Finished instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Environment: development
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Dispatcher: webrick
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Application: Surveyor
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] WARN : Agent configured not to send data in this environment.
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing deferred Rack instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing ActiveJob instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Net instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Finished instrumentation
+[05/05/15 14:24:16 -0400 yoseph-90X3A (3881)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Environment: development
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Dispatcher: webrick
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Application: Surveyor
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] WARN : Agent configured not to send data in this environment.
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing deferred Rack instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing ActiveJob instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Net instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Finished instrumentation
+[05/05/15 14:47:21 -0400 yoseph-90X3A (5825)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Environment: development
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Dispatcher: webrick
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Application: Surveyor
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] WARN : Agent configured not to send data in this environment.
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing deferred Rack instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing ActiveJob instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Net instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Finished instrumentation
+[05/05/15 16:05:26 -0400 yoseph-90X3A (10383)] INFO : Doing deferred dependency-detection before Rack startup
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Environment: development
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Dispatcher: webrick
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Application: Surveyor
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] WARN : Agent configured not to send data in this environment.
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing deferred Rack instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing ActiveJob instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Net instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing ActiveRecord 4 instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Finished instrumentation
+[05/05/15 21:57:38 -0400 yoseph-90X3A (3369)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Environment: development
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : No known dispatcher detected.
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Application: Surveyor
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] WARN : Agent configured not to send data in this environment.
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing deferred Rack instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing ActiveJob instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Net instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 09:22:15 -0400 yoseph-90X3A (3109)] INFO : Finished instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Environment: development
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Dispatcher: webrick
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Application: Surveyor
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] WARN : Agent configured not to send data in this environment.
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing deferred Rack instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing ActiveJob instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Net instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 09:23:24 -0400 yoseph-90X3A (3290)] INFO : Finished instrumentation
+[05/06/15 09:23:25 -0400 yoseph-90X3A (3290)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Environment: development
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Dispatcher: webrick
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Application: Surveyor
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] WARN : Agent configured not to send data in this environment.
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing deferred Rack instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing ActiveJob instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Net instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Finished instrumentation
+[05/06/15 09:29:22 -0400 yoseph-90X3A (4014)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Environment: development
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Dispatcher: webrick
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Application: Surveyor
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] WARN : Agent configured not to send data in this environment.
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing deferred Rack instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing ActiveJob instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Net instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Finished instrumentation
+[05/06/15 09:29:47 -0400 yoseph-90X3A (4127)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Environment: development
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Dispatcher: webrick
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Application: Surveyor
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] WARN : Agent configured not to send data in this environment.
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing deferred Rack instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing ActiveJob instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Net instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Finished instrumentation
+[05/06/15 09:39:59 -0400 yoseph-90X3A (5053)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Environment: development
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : No known dispatcher detected.
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Application: Surveyor
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] WARN : Agent configured not to send data in this environment.
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing deferred Rack instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing ActiveJob instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Net instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 10:26:35 -0400 yoseph-90X3A (6530)] INFO : Finished instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Environment: development
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : No known dispatcher detected.
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Application: Surveyor
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] WARN : Agent configured not to send data in this environment.
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing deferred Rack instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing ActiveJob instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Net instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 10:27:02 -0400 yoseph-90X3A (6588)] INFO : Finished instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Environment: development
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Dispatcher: webrick
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Application: Surveyor
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] WARN : Agent configured not to send data in this environment.
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing deferred Rack instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing ActiveJob instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Net instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 10:27:19 -0400 yoseph-90X3A (6675)] INFO : Finished instrumentation
+[05/06/15 10:27:20 -0400 yoseph-90X3A (6675)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Environment: development
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : No known dispatcher detected.
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Application: Surveyor
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] WARN : Agent configured not to send data in this environment.
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing deferred Rack instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing ActiveJob instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Net instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 10:56:21 -0400 yoseph-90X3A (7464)] INFO : Finished instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Environment: development
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Dispatcher: webrick
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Application: Surveyor
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] WARN : Agent configured not to send data in this environment.
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing deferred Rack instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing ActiveJob instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Net instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing ActiveRecord 4 instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 10:56:39 -0400 yoseph-90X3A (7566)] INFO : Finished instrumentation
+[05/06/15 10:56:40 -0400 yoseph-90X3A (7566)] INFO : Doing deferred dependency-detection before Rack startup
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Starting the New Relic agent in "development" environment.
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : New Relic Agent Developer Mode enabled.
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Environment: development
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Dispatcher: webrick
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Application: Surveyor
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] WARN : Agent configured not to send data in this environment.
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Rails 3+ middleware instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing deferred Rack instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Rack::Builder middleware instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing ActiveJob instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Net instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing ActiveRecord 4 instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Rails 4 view instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Rails 4 Controller instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Installing Rails 4 Error instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Finished instrumentation
+[07/12/15 15:15:18 -0400 yoseph-90X3A (6320)] INFO : Doing deferred dependency-detection before Rack startup
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Starting the New Relic agent in "development" environment.
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Reading configuration from config/newrelic.yml (/home/yoseph/Surveyor)
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : New Relic Agent Developer Mode enabled.
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Environment: development
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Dispatcher: webrick
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Application: Surveyor
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] WARN : Agent configured not to send data in this environment.
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Rails 3+ middleware instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing deferred Rack instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Rack::Builder middleware instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing ActiveJob instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Net instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing ActiveRecord 4 instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Rails 4 view instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Rails 4 Controller instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Installing Rails 4 Error instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Finished instrumentation
+[07/25/15 15:49:57 -0400 yoseph-90X3A (12049)] INFO : Doing deferred dependency-detection before Rack startup

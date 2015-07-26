@@ -1,0 +1,20 @@
+<%= simple_form_for(@demographic) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :name %>
+	<%= f.label "Gender"%>
+    <%= select_tag :gender, options_for_select(gender) %>
+    <%= f.input :age %>
+	<%= f.label "Education Level"%>
+    <%= select_tag :education, options_for_select(education) %>
+    <%= f.label "Nationality"%>
+	<%= select_tag :nationality, options_for_select(nations)%>
+	<%= f.input :user_id, :as => :hidden, :input_html => { :value => current_subject.id } %>
+  <%= f.input :set_once, :as => :hidden, :input_html => { :value => 1 } %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, 'Save my Demographics' %>
+  </div>
+<% end %>
